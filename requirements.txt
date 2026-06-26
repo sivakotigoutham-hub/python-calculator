@@ -1,0 +1,24 @@
+
+---
+
+# 📄 requirements.txt
+
+```txt
+# Python Calculator - Dependencies
+
+# No external packages required - This calculator uses only Python's standard library
+# All imports used are built-in: tkinter, math, messagebox
+
+# Python 3.6+ with Tkinter is all you need
+# Tkinter comes pre-installed with Python on most systems
+
+# Optional: For future enhancements (uncomment if needed)
+# numpy==1.24.3          # For scientific calculations
+# pandas==2.0.3          # For data handling
+# matplotlib==3.7.1      # For graphing functions
+# pytest==7.4.0          # For testing
+# flake8==6.0.0          # For code linting
+# black==23.7.0          # For code formatting
+
+# Installation command (if any dependencies are added):
+# pip install -r requirements.txt
