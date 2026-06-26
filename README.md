@@ -27,6 +27,9 @@ A feature-rich, professional calculator application built with Python and Tkinte
 - 🖱️ Mouse-friendly interface
 - 📱 Responsive button layout
 - ⚡ Real-time expression display
+## Screenshot
+
+![Calculator](assets/calculator.png)
 
 ## 🚀 Installation
 
